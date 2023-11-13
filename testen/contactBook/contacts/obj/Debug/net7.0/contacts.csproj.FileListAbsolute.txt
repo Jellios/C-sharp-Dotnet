@@ -1,0 +1,11 @@
+C:\Users\jelle\Documents\GitHub\C-sharp-Dotnet\testen\contactBook\contacts\bin\Debug\net7.0\contacts.deps.json
+C:\Users\jelle\Documents\GitHub\C-sharp-Dotnet\testen\contactBook\contacts\bin\Debug\net7.0\contacts.dll
+C:\Users\jelle\Documents\GitHub\C-sharp-Dotnet\testen\contactBook\contacts\bin\Debug\net7.0\contacts.pdb
+C:\Users\jelle\Documents\GitHub\C-sharp-Dotnet\testen\contactBook\contacts\obj\Debug\net7.0\contacts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jelle\Documents\GitHub\C-sharp-Dotnet\testen\contactBook\contacts\obj\Debug\net7.0\contacts.AssemblyInfoInputs.cache
+C:\Users\jelle\Documents\GitHub\C-sharp-Dotnet\testen\contactBook\contacts\obj\Debug\net7.0\contacts.AssemblyInfo.cs
+C:\Users\jelle\Documents\GitHub\C-sharp-Dotnet\testen\contactBook\contacts\obj\Debug\net7.0\contacts.csproj.CoreCompileInputs.cache
+C:\Users\jelle\Documents\GitHub\C-sharp-Dotnet\testen\contactBook\contacts\obj\Debug\net7.0\contacts.dll
+C:\Users\jelle\Documents\GitHub\C-sharp-Dotnet\testen\contactBook\contacts\obj\Debug\net7.0\refint\contacts.dll
+C:\Users\jelle\Documents\GitHub\C-sharp-Dotnet\testen\contactBook\contacts\obj\Debug\net7.0\contacts.pdb
+C:\Users\jelle\Documents\GitHub\C-sharp-Dotnet\testen\contactBook\contacts\obj\Debug\net7.0\ref\contacts.dll
