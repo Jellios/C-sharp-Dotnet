@@ -6,7 +6,8 @@ namespace YourConsoleAppNamespace
 {
     class Program
     {
-        void FunctionalityTest() {
+        public static List<Contact> contactsList;
+       public static void FunctionalityTest() {
             // Create a new Contact instance
             Contact contact = new Contact("John", "Doe", "1234567890");
 
@@ -28,18 +29,18 @@ namespace YourConsoleAppNamespace
         }
 
 
-        public void PrintContactInfo(Contact c)
+        public static void PrintContactInfo(Contact c)
         {
             Console.WriteLine($"Contact information:\nFirstName: {c.FirstName},\nLastName: {c.LastName},\nPhoneNumber: {c.PhoneNumber}");
         }
-        public void LoopContactList(ref List<Contact> lst)
+        public static void LoopContactList(ref List<Contact> lst)
         {
             foreach (Contact c in lst)
             {
                 PrintContactInfo(c);
             }
         }
-       public void AddContact(ref List<Contact> lst) {
+       public static void AddContact(ref List<Contact> lst) {
             Contact c = new Contact();
             string tmp = "";
             do{
@@ -75,13 +76,75 @@ namespace YourConsoleAppNamespace
             lst.Add(c);
            
         }
+        public static void RemoveContact()
+        {
+            
+        }
+        public static int getChoice()
+        {
+           
+            string str ="";
+            int z = -1;
+            bool isOk = false;
+            List<string> choices = new List<string>();
+            choices.Add("Add contact");
+            choices.Add("Stop");
+
+            do
+            {
+                System.Console.WriteLine("Enter your choice: ");
+                for (int i = 0; i < choices.Count(); i++)
+                {
+                    System.Console.WriteLine($"[{i}]\t{choices[i]}");
+                }
+                System.Console.Write("Your choice: ");
+                str = Console.ReadLine();
+                try
+                {
+                    z = Convert.ToInt32(str);
+                    if (z < 0 || z > choices.Count())
+                    {
+                        System.Console.WriteLine("Not a valid option, enter a number from the list");
+                    }
+                    else
+                    {
+                        isOk = true;
+                    }
+                }
+                catch (Exception e)
+                {
+                   
+                    if (e.GetType().ToString() == "System.FormatException")
+                    {
+                        System.Console.WriteLine("Not a Number! please enter a valid choice!");
+                    }
+                }
+            } while(!isOk);
+
+            return z;
+            
+
+        }
+        public static void Menu()
+        {
+            do
+            {
+                int x = getChoice();
+                switch(x)
+                {
+                    case 0:
+                        AddContact(ref contactsList);
+                        break;
+                }
+            }while(true);
+        }
       public  static void Main(string[] args)
         {
-            List<Contact> contactsList = new List<Contact>();
-             Program program = new Program();
-             program.AddContact(ref contactsList);
-            program.AddContact(ref contactsList);
-            program.LoopContactList(ref contactsList);
+         contactsList  = new List<Contact>();
+           Menu();
+           //  AddContact(ref contactsList);
+           // AddContact(ref contactsList);
+           // LoopContactList(ref contactsList);
         }
     }
 }

@@ -1,0 +1,41 @@
+﻿<Window x:Class="UserInterface.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:local="clr-namespace:UserInterface"
+    mc:Ignorable="d"
+    Title="MainWindow" Height="450" Width="800">
+
+       
+            <StackPanel Orientation="horizontal">
+                <Label x:Name="controlsLabel">Add contact:</Label>
+          
+            <StackPanel Orientation="vertical">
+
+                <Label x:Name="LabelFirstName">FirstName:</Label>
+                <Label x:Name="LabelLastName">LastName:</Label>
+                <Label x:Name="LabelPhoneNumber">PhoneNumber:</Label>
+            </StackPanel>
+            <StackPanel Orientation="vertical">
+                <TextBox x:Name="FirstName"></TextBox>
+                <TextBox x:Name="LastName"></TextBox>
+                <TextBox x:Name="PhoneNumber"></TextBox>
+                <Button x:Name="AddContactButton">Add contact</Button>
+            </StackPanel>
+           <StackPanel Orientation="vertical">
+            <ListView x:Name="MyList">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="FirstName" DisplayMemberBinding="{Binding FirstName}"/>
+                        <GridViewColumn Header="LastName" DisplayMemberBinding="{Binding LastName}"/>
+                        <GridViewColumn Header="PhoneNumber" DisplayMemberBinding="{Binding PhoneNumber}"/>
+                    </GridView>
+                </ListView.View>
+                </ListView>
+                
+           </StackPanel>
+        </StackPanel>
+
+
+</Window>

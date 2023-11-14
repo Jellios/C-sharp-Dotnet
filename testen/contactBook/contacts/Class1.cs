@@ -35,5 +35,29 @@ namespace contacts;
             set {phoneNumber = value;}
         }
     }
+    public class ContactBook: Contact
+    {
+        List<Contact> contList;
+
+        public List<Contact> ContactList {
+            get { return contList;}
+        }
+        public void AddContact(Contact c)
+        {
+            this.contList.Add(c);
+        }
+        public void RemoveContact(int x)
+        {
+            this.contList.RemoveAt(x);
+        }
+        public void AlterContact(int x, Contact c)
+        {
+            this.contList[x] = c;
+        }
+        public ContactBook()
+        {
+            this.contList = new List<Contact>();
+        }
+    }
 
 
