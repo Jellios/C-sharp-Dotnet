@@ -1,0 +1,14 @@
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\ashynchronous\MyConsole\obj\Debug\net7.0\MyConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\ashynchronous\MyConsole\obj\Debug\net7.0\MyConsole.AssemblyInfoInputs.cache
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\ashynchronous\MyConsole\obj\Debug\net7.0\MyConsole.AssemblyInfo.cs
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\ashynchronous\MyConsole\obj\Debug\net7.0\MyConsole.csproj.CoreCompileInputs.cache
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\ashynchronous\MyConsole\bin\Debug\net7.0\MyConsole.exe
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\ashynchronous\MyConsole\bin\Debug\net7.0\MyConsole.deps.json
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\ashynchronous\MyConsole\bin\Debug\net7.0\MyConsole.runtimeconfig.json
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\ashynchronous\MyConsole\bin\Debug\net7.0\MyConsole.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\ashynchronous\MyConsole\bin\Debug\net7.0\MyConsole.pdb
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\ashynchronous\MyConsole\obj\Debug\net7.0\MyConsole.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\ashynchronous\MyConsole\obj\Debug\net7.0\refint\MyConsole.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\ashynchronous\MyConsole\obj\Debug\net7.0\MyConsole.pdb
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\ashynchronous\MyConsole\obj\Debug\net7.0\MyConsole.genruntimeconfig.cache
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\ashynchronous\MyConsole\obj\Debug\net7.0\ref\MyConsole.dll

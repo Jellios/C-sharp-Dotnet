@@ -1,0 +1,11 @@
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\lab2\Backend\obj\Debug\net7.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\lab2\Backend\obj\Debug\net7.0\Backend.AssemblyInfoInputs.cache
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\lab2\Backend\obj\Debug\net7.0\Backend.AssemblyInfo.cs
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\lab2\Backend\obj\Debug\net7.0\Backend.csproj.CoreCompileInputs.cache
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\lab2\Backend\bin\Debug\net7.0\Backend.deps.json
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\lab2\Backend\bin\Debug\net7.0\Backend.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\lab2\Backend\bin\Debug\net7.0\Backend.pdb
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\lab2\Backend\obj\Debug\net7.0\Backend.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\lab2\Backend\obj\Debug\net7.0\refint\Backend.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\lab2\Backend\obj\Debug\net7.0\Backend.pdb
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\lab2\Backend\obj\Debug\net7.0\ref\Backend.dll

@@ -1,0 +1,11 @@
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\Examen\MachineFunctions\obj\Debug\net7.0\MachineFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\Examen\MachineFunctions\obj\Debug\net7.0\MachineFunctions.AssemblyInfoInputs.cache
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\Examen\MachineFunctions\obj\Debug\net7.0\MachineFunctions.AssemblyInfo.cs
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\Examen\MachineFunctions\obj\Debug\net7.0\MachineFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\Examen\MachineFunctions\bin\Debug\net7.0\MachineFunctions.deps.json
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\Examen\MachineFunctions\bin\Debug\net7.0\MachineFunctions.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\Examen\MachineFunctions\bin\Debug\net7.0\MachineFunctions.pdb
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\Examen\MachineFunctions\obj\Debug\net7.0\MachineFunctions.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\Examen\MachineFunctions\obj\Debug\net7.0\refint\MachineFunctions.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\Examen\MachineFunctions\obj\Debug\net7.0\MachineFunctions.pdb
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\Examen\MachineFunctions\obj\Debug\net7.0\ref\MachineFunctions.dll

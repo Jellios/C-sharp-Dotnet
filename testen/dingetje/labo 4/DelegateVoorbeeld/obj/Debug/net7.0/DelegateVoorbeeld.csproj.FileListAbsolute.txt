@@ -1,0 +1,14 @@
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 4\DelegateVoorbeeld\bin\Debug\net7.0\DelegateVoorbeeld.exe
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 4\DelegateVoorbeeld\bin\Debug\net7.0\DelegateVoorbeeld.deps.json
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 4\DelegateVoorbeeld\bin\Debug\net7.0\DelegateVoorbeeld.runtimeconfig.json
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 4\DelegateVoorbeeld\bin\Debug\net7.0\DelegateVoorbeeld.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 4\DelegateVoorbeeld\bin\Debug\net7.0\DelegateVoorbeeld.pdb
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 4\DelegateVoorbeeld\obj\Debug\net7.0\DelegateVoorbeeld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 4\DelegateVoorbeeld\obj\Debug\net7.0\DelegateVoorbeeld.AssemblyInfoInputs.cache
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 4\DelegateVoorbeeld\obj\Debug\net7.0\DelegateVoorbeeld.AssemblyInfo.cs
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 4\DelegateVoorbeeld\obj\Debug\net7.0\DelegateVoorbeeld.csproj.CoreCompileInputs.cache
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 4\DelegateVoorbeeld\obj\Debug\net7.0\DelegateVoorbeeld.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 4\DelegateVoorbeeld\obj\Debug\net7.0\refint\DelegateVoorbeeld.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 4\DelegateVoorbeeld\obj\Debug\net7.0\DelegateVoorbeeld.pdb
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 4\DelegateVoorbeeld\obj\Debug\net7.0\DelegateVoorbeeld.genruntimeconfig.cache
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 4\DelegateVoorbeeld\obj\Debug\net7.0\ref\DelegateVoorbeeld.dll

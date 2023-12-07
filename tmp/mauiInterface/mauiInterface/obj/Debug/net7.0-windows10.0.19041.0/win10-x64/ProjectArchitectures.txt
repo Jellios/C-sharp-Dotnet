@@ -1,0 +1,1 @@
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\tmp\mauiInterface\mauiInterface\mauiInterface.csproj;x64

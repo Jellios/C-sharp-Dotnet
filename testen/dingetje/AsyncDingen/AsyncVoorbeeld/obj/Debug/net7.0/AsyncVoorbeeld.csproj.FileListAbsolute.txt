@@ -1,0 +1,14 @@
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\AsyncDingen\AsyncVoorbeeld\bin\Debug\net7.0\AsyncVoorbeeld.exe
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\AsyncDingen\AsyncVoorbeeld\bin\Debug\net7.0\AsyncVoorbeeld.deps.json
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\AsyncDingen\AsyncVoorbeeld\bin\Debug\net7.0\AsyncVoorbeeld.runtimeconfig.json
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\AsyncDingen\AsyncVoorbeeld\bin\Debug\net7.0\AsyncVoorbeeld.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\AsyncDingen\AsyncVoorbeeld\bin\Debug\net7.0\AsyncVoorbeeld.pdb
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\AsyncDingen\AsyncVoorbeeld\obj\Debug\net7.0\AsyncVoorbeeld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\AsyncDingen\AsyncVoorbeeld\obj\Debug\net7.0\AsyncVoorbeeld.AssemblyInfoInputs.cache
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\AsyncDingen\AsyncVoorbeeld\obj\Debug\net7.0\AsyncVoorbeeld.AssemblyInfo.cs
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\AsyncDingen\AsyncVoorbeeld\obj\Debug\net7.0\AsyncVoorbeeld.csproj.CoreCompileInputs.cache
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\AsyncDingen\AsyncVoorbeeld\obj\Debug\net7.0\AsyncVoorbeeld.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\AsyncDingen\AsyncVoorbeeld\obj\Debug\net7.0\refint\AsyncVoorbeeld.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\AsyncDingen\AsyncVoorbeeld\obj\Debug\net7.0\AsyncVoorbeeld.pdb
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\AsyncDingen\AsyncVoorbeeld\obj\Debug\net7.0\AsyncVoorbeeld.genruntimeconfig.cache
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\AsyncDingen\AsyncVoorbeeld\obj\Debug\net7.0\ref\AsyncVoorbeeld.dll

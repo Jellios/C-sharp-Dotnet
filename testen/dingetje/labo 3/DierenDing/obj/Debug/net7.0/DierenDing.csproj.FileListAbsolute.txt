@@ -1,0 +1,14 @@
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 3\DierenDing\obj\Debug\net7.0\DierenDing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 3\DierenDing\obj\Debug\net7.0\DierenDing.AssemblyInfoInputs.cache
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 3\DierenDing\obj\Debug\net7.0\DierenDing.AssemblyInfo.cs
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 3\DierenDing\obj\Debug\net7.0\DierenDing.csproj.CoreCompileInputs.cache
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 3\DierenDing\bin\Debug\net7.0\DierenDing.exe
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 3\DierenDing\bin\Debug\net7.0\DierenDing.deps.json
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 3\DierenDing\bin\Debug\net7.0\DierenDing.runtimeconfig.json
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 3\DierenDing\bin\Debug\net7.0\DierenDing.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 3\DierenDing\bin\Debug\net7.0\DierenDing.pdb
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 3\DierenDing\obj\Debug\net7.0\DierenDing.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 3\DierenDing\obj\Debug\net7.0\refint\DierenDing.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 3\DierenDing\obj\Debug\net7.0\DierenDing.pdb
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 3\DierenDing\obj\Debug\net7.0\DierenDing.genruntimeconfig.cache
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 3\DierenDing\obj\Debug\net7.0\ref\DierenDing.dll

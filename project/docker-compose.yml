@@ -1,0 +1,45 @@
+version: '3.9'
+services:
+  webapi:
+    image: webapi-image
+    container_name: webapi-container
+    hostname: webapi
+    ports:
+      - "5233:5233"
+    networks:
+      - mynetwork
+    depends_on:
+      - mysql
+
+  php-apache:
+    image: my-php-app
+  
+    ports:
+      - "80:80"
+    volumes:
+      - ../docker test/app:/var/www/html
+    networks:
+      - mynetwork
+
+  mysql:
+    image: mysql-image
+    container_name: mysql-container
+    hostname: mysql
+    ports:
+      - "3306:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: "Test123456"
+      MYSQL_DATABASE: "quotesdb"
+      MYSQL_USER: "gebruiker"
+      MYSQL_PASSWORD: "Test123456"
+    volumes:
+      - dbData:/var/lib/mysql
+    networks:
+      - mynetwork
+
+networks:
+  mynetwork:
+
+volumes:
+  app:
+  dbData:

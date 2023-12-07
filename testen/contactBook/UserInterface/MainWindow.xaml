@@ -27,9 +27,9 @@
             <ListView x:Name="MyList">
                 <ListView.View>
                     <GridView>
-                        <GridViewColumn Header="FirstName" DisplayMemberBinding="{Binding FirstName}"/>
-                        <GridViewColumn Header="LastName" DisplayMemberBinding="{Binding LastName}"/>
-                        <GridViewColumn Header="PhoneNumber" DisplayMemberBinding="{Binding PhoneNumber}"/>
+                        <GridViewColumn x:Name="FirstNameHeader" Header="FirstName" DisplayMemberBinding="{Binding FirstName}"/>
+                        <GridViewColumn x:Name="LastNameHeader" Header="LastName" DisplayMemberBinding="{Binding LastName}"/>
+                        <GridViewColumn x:Name="PhoneNumberHeader" Header="PhoneNumber" DisplayMemberBinding="{Binding PhoneNumber}"/>
                     </GridView>
                 </ListView.View>
                 </ListView>

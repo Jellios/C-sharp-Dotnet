@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8o4kSfTYAELl5XdzmK0ZL683OBJT1Fl1dUjyXoHiGHym/QlT6+ZCB2143A7EjoK9yZj2KwkLNjPzZVO5Uhn8Kw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jelle\\Documents\\GitHub\\C-sharp-Dotnet\\testen\\dingetje\\AsyncDingen\\WebDing\\WebDing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jelle\\.nuget\\packages\\anglesharp\\1.0.7\\anglesharp.1.0.7.nupkg.sha512",
+    "C:\\Users\\Jelle\\.nuget\\packages\\system.text.encoding.codepages\\7.0.0\\system.text.encoding.codepages.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jelle\\Documents\\GitHub\\C-sharp-Dotnet\\testen\\contactBook\\contacts\\contacts.csproj": {}
+    "C:\\Users\\Jelle\\Documents\\GitHub\\C-sharp-Dotnet\\testen\\contactBook\\contacts\\contacts.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jelle\\Documents\\GitHub\\C-sharp-Dotnet\\testen\\contactBook\\contacts\\contacts.csproj": {
+    "C:\\Users\\Jelle\\Documents\\GitHub\\C-sharp-Dotnet\\testen\\contactBook\\contacts\\contacts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jelle\\Documents\\GitHub\\C-sharp-Dotnet\\testen\\contactBook\\contacts\\contacts.csproj",
+        "projectUniqueName": "C:\\Users\\Jelle\\Documents\\GitHub\\C-sharp-Dotnet\\testen\\contactBook\\contacts\\contacts.csproj",
         "projectName": "contacts",
-        "projectPath": "C:\\Users\\jelle\\Documents\\GitHub\\C-sharp-Dotnet\\testen\\contactBook\\contacts\\contacts.csproj",
-        "packagesPath": "C:\\Users\\jelle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jelle\\Documents\\GitHub\\C-sharp-Dotnet\\testen\\contactBook\\contacts\\obj\\",
+        "projectPath": "C:\\Users\\Jelle\\Documents\\GitHub\\C-sharp-Dotnet\\testen\\contactBook\\contacts\\contacts.csproj",
+        "packagesPath": "C:\\Users\\Jelle\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jelle\\Documents\\GitHub\\C-sharp-Dotnet\\testen\\contactBook\\contacts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jelle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jelle\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

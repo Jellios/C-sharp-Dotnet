@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "part1Classes/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/part1Classes.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/part1Classes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "part1Classes/1.0.0": {
+      "type": "project",
+      "path": "../part1Classes/part1Classes.csproj",
+      "msbuildProject": "../part1Classes/part1Classes.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "part1Classes >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Jelle\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Jelle\\Documents\\GitHub\\C-sharp-Dotnet\\lab4\\part1\\part1.csproj",
+      "projectName": "part1",
+      "projectPath": "C:\\Users\\Jelle\\Documents\\GitHub\\C-sharp-Dotnet\\lab4\\part1\\part1.csproj",
+      "packagesPath": "C:\\Users\\Jelle\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jelle\\Documents\\GitHub\\C-sharp-Dotnet\\lab4\\part1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Jelle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\Jelle\\Documents\\GitHub\\C-sharp-Dotnet\\lab4\\part1Classes\\part1Classes.csproj": {
+              "projectPath": "C:\\Users\\Jelle\\Documents\\GitHub\\C-sharp-Dotnet\\lab4\\part1Classes\\part1Classes.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

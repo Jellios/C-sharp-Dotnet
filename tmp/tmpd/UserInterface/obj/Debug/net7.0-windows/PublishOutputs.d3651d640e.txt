@@ -1,0 +1,7 @@
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\project\UserInterface\bin\Debug\net7.0-windows\publish\UserInterface.exe
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\project\UserInterface\bin\Debug\net7.0-windows\publish\UserInterface.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\project\UserInterface\bin\Debug\net7.0-windows\publish\UserInterface.deps.json
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\project\UserInterface\bin\Debug\net7.0-windows\publish\UserInterface.runtimeconfig.json
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\project\UserInterface\bin\Debug\net7.0-windows\publish\UserInterface.pdb
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\project\UserInterface\bin\Debug\net7.0-windows\publish\LibDing.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\project\UserInterface\bin\Debug\net7.0-windows\publish\LibDing.pdb

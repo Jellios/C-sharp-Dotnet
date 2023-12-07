@@ -1,0 +1,14 @@
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\LinqVoorbeelden\Voorbeelden\bin\Debug\net7.0\Voorbeelden.exe
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\LinqVoorbeelden\Voorbeelden\bin\Debug\net7.0\Voorbeelden.deps.json
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\LinqVoorbeelden\Voorbeelden\bin\Debug\net7.0\Voorbeelden.runtimeconfig.json
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\LinqVoorbeelden\Voorbeelden\bin\Debug\net7.0\Voorbeelden.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\LinqVoorbeelden\Voorbeelden\bin\Debug\net7.0\Voorbeelden.pdb
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\LinqVoorbeelden\Voorbeelden\obj\Debug\net7.0\Voorbeelden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\LinqVoorbeelden\Voorbeelden\obj\Debug\net7.0\Voorbeelden.AssemblyInfoInputs.cache
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\LinqVoorbeelden\Voorbeelden\obj\Debug\net7.0\Voorbeelden.AssemblyInfo.cs
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\LinqVoorbeelden\Voorbeelden\obj\Debug\net7.0\Voorbeelden.csproj.CoreCompileInputs.cache
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\LinqVoorbeelden\Voorbeelden\obj\Debug\net7.0\Voorbeelden.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\LinqVoorbeelden\Voorbeelden\obj\Debug\net7.0\refint\Voorbeelden.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\LinqVoorbeelden\Voorbeelden\obj\Debug\net7.0\Voorbeelden.pdb
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\LinqVoorbeelden\Voorbeelden\obj\Debug\net7.0\Voorbeelden.genruntimeconfig.cache
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\LinqVoorbeelden\Voorbeelden\obj\Debug\net7.0\ref\Voorbeelden.dll

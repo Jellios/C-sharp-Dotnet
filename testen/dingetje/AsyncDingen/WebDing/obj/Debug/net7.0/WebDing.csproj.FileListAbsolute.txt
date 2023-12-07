@@ -1,0 +1,17 @@
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\AsyncDingen\WebDing\bin\Debug\net7.0\WebDing.exe
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\AsyncDingen\WebDing\bin\Debug\net7.0\WebDing.deps.json
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\AsyncDingen\WebDing\bin\Debug\net7.0\WebDing.runtimeconfig.json
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\AsyncDingen\WebDing\bin\Debug\net7.0\WebDing.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\AsyncDingen\WebDing\bin\Debug\net7.0\WebDing.pdb
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\AsyncDingen\WebDing\obj\Debug\net7.0\WebDing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\AsyncDingen\WebDing\obj\Debug\net7.0\WebDing.AssemblyInfoInputs.cache
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\AsyncDingen\WebDing\obj\Debug\net7.0\WebDing.AssemblyInfo.cs
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\AsyncDingen\WebDing\obj\Debug\net7.0\WebDing.csproj.CoreCompileInputs.cache
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\AsyncDingen\WebDing\obj\Debug\net7.0\WebDing.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\AsyncDingen\WebDing\obj\Debug\net7.0\refint\WebDing.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\AsyncDingen\WebDing\obj\Debug\net7.0\WebDing.pdb
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\AsyncDingen\WebDing\obj\Debug\net7.0\WebDing.genruntimeconfig.cache
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\AsyncDingen\WebDing\obj\Debug\net7.0\ref\WebDing.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\AsyncDingen\WebDing\obj\Debug\net7.0\WebDing.csproj.AssemblyReference.cache
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\AsyncDingen\WebDing\bin\Debug\net7.0\AngleSharp.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\AsyncDingen\WebDing\obj\Debug\net7.0\WebDing.csproj.CopyComplete

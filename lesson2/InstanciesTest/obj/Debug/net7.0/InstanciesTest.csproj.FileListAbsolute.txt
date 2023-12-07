@@ -1,0 +1,14 @@
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\lesson2\InstanciesTest\bin\Debug\net7.0\InstanciesTest.exe
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\lesson2\InstanciesTest\bin\Debug\net7.0\InstanciesTest.deps.json
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\lesson2\InstanciesTest\bin\Debug\net7.0\InstanciesTest.runtimeconfig.json
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\lesson2\InstanciesTest\bin\Debug\net7.0\InstanciesTest.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\lesson2\InstanciesTest\bin\Debug\net7.0\InstanciesTest.pdb
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\lesson2\InstanciesTest\obj\Debug\net7.0\InstanciesTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\lesson2\InstanciesTest\obj\Debug\net7.0\InstanciesTest.AssemblyInfoInputs.cache
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\lesson2\InstanciesTest\obj\Debug\net7.0\InstanciesTest.AssemblyInfo.cs
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\lesson2\InstanciesTest\obj\Debug\net7.0\InstanciesTest.csproj.CoreCompileInputs.cache
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\lesson2\InstanciesTest\obj\Debug\net7.0\InstanciesTest.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\lesson2\InstanciesTest\obj\Debug\net7.0\refint\InstanciesTest.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\lesson2\InstanciesTest\obj\Debug\net7.0\InstanciesTest.pdb
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\lesson2\InstanciesTest\obj\Debug\net7.0\InstanciesTest.genruntimeconfig.cache
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\lesson2\InstanciesTest\obj\Debug\net7.0\ref\InstanciesTest.dll

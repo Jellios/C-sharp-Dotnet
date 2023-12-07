@@ -1,0 +1,11 @@
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\project\LibDing\bin\Debug\net7.0\LibDing.deps.json
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\project\LibDing\bin\Debug\net7.0\LibDing.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\project\LibDing\bin\Debug\net7.0\LibDing.pdb
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\project\LibDing\obj\Debug\net7.0\LibDing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\project\LibDing\obj\Debug\net7.0\LibDing.AssemblyInfoInputs.cache
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\project\LibDing\obj\Debug\net7.0\LibDing.AssemblyInfo.cs
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\project\LibDing\obj\Debug\net7.0\LibDing.csproj.CoreCompileInputs.cache
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\project\LibDing\obj\Debug\net7.0\LibDing.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\project\LibDing\obj\Debug\net7.0\refint\LibDing.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\project\LibDing\obj\Debug\net7.0\LibDing.pdb
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\project\LibDing\obj\Debug\net7.0\ref\LibDing.dll

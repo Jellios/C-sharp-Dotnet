@@ -1,0 +1,17 @@
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\project\WebAPI\bin\Debug\net7.0\publish\DotNet.Docker.exe
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\project\WebAPI\bin\Debug\net7.0\publish\appsettings.Development.json
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\project\WebAPI\bin\Debug\net7.0\publish\appsettings.json
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\project\WebAPI\bin\Debug\net7.0\publish\DotNet.Docker.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\project\WebAPI\bin\Debug\net7.0\publish\DotNet.Docker.deps.json
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\project\WebAPI\bin\Debug\net7.0\publish\DotNet.Docker.runtimeconfig.json
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\project\WebAPI\bin\Debug\net7.0\publish\DotNet.Docker.pdb
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\project\WebAPI\bin\Debug\net7.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\project\WebAPI\bin\Debug\net7.0\publish\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\project\WebAPI\bin\Debug\net7.0\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\project\WebAPI\bin\Debug\net7.0\publish\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\project\WebAPI\bin\Debug\net7.0\publish\Microsoft.OpenApi.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\project\WebAPI\bin\Debug\net7.0\publish\MySqlConnector.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\project\WebAPI\bin\Debug\net7.0\publish\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\project\WebAPI\bin\Debug\net7.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\project\WebAPI\bin\Debug\net7.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\project\WebAPI\bin\Debug\net7.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

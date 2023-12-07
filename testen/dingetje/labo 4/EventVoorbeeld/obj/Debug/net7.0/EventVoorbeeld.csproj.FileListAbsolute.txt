@@ -1,0 +1,14 @@
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 4\EventVoorbeeld\obj\Debug\net7.0\EventVoorbeeld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 4\EventVoorbeeld\obj\Debug\net7.0\EventVoorbeeld.AssemblyInfoInputs.cache
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 4\EventVoorbeeld\obj\Debug\net7.0\EventVoorbeeld.AssemblyInfo.cs
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 4\EventVoorbeeld\obj\Debug\net7.0\EventVoorbeeld.csproj.CoreCompileInputs.cache
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 4\EventVoorbeeld\bin\Debug\net7.0\EventVoorbeeld.exe
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 4\EventVoorbeeld\bin\Debug\net7.0\EventVoorbeeld.deps.json
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 4\EventVoorbeeld\bin\Debug\net7.0\EventVoorbeeld.runtimeconfig.json
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 4\EventVoorbeeld\bin\Debug\net7.0\EventVoorbeeld.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 4\EventVoorbeeld\bin\Debug\net7.0\EventVoorbeeld.pdb
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 4\EventVoorbeeld\obj\Debug\net7.0\EventVoorbeeld.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 4\EventVoorbeeld\obj\Debug\net7.0\refint\EventVoorbeeld.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 4\EventVoorbeeld\obj\Debug\net7.0\EventVoorbeeld.pdb
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 4\EventVoorbeeld\obj\Debug\net7.0\EventVoorbeeld.genruntimeconfig.cache
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 4\EventVoorbeeld\obj\Debug\net7.0\ref\EventVoorbeeld.dll

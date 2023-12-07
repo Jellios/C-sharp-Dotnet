@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "structApp", "structApp\structApp.csproj", "{84FC2360-AECB-4A3E-9295-472718EFDC21}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StructFunctions", "StructFunctions\StructFunctions.csproj", "{58CDE299-B03A-460B-B801-9B423CAEE42A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84FC2360-AECB-4A3E-9295-472718EFDC21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84FC2360-AECB-4A3E-9295-472718EFDC21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84FC2360-AECB-4A3E-9295-472718EFDC21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84FC2360-AECB-4A3E-9295-472718EFDC21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58CDE299-B03A-460B-B801-9B423CAEE42A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58CDE299-B03A-460B-B801-9B423CAEE42A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58CDE299-B03A-460B-B801-9B423CAEE42A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58CDE299-B03A-460B-B801-9B423CAEE42A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EF97251-F57F-496C-ABD8-ECBA840A55F0}
+	EndGlobalSection
+EndGlobal

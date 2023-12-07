@@ -1,0 +1,14 @@
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 3\ToekomstDing\obj\Debug\net7.0\ToekomstDing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 3\ToekomstDing\obj\Debug\net7.0\ToekomstDing.AssemblyInfoInputs.cache
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 3\ToekomstDing\obj\Debug\net7.0\ToekomstDing.AssemblyInfo.cs
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 3\ToekomstDing\obj\Debug\net7.0\ToekomstDing.csproj.CoreCompileInputs.cache
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 3\ToekomstDing\bin\Debug\net7.0\ToekomstDing.exe
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 3\ToekomstDing\bin\Debug\net7.0\ToekomstDing.deps.json
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 3\ToekomstDing\bin\Debug\net7.0\ToekomstDing.runtimeconfig.json
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 3\ToekomstDing\bin\Debug\net7.0\ToekomstDing.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 3\ToekomstDing\bin\Debug\net7.0\ToekomstDing.pdb
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 3\ToekomstDing\obj\Debug\net7.0\ToekomstDing.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 3\ToekomstDing\obj\Debug\net7.0\refint\ToekomstDing.dll
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 3\ToekomstDing\obj\Debug\net7.0\ToekomstDing.pdb
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 3\ToekomstDing\obj\Debug\net7.0\ToekomstDing.genruntimeconfig.cache
+C:\Users\Jelle\Documents\GitHub\C-sharp-Dotnet\testen\dingetje\labo 3\ToekomstDing\obj\Debug\net7.0\ref\ToekomstDing.dll

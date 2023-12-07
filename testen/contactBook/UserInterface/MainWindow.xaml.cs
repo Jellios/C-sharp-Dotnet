@@ -12,7 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using contacts; 
+using contacts;
 
 namespace UserInterface
 {
@@ -22,29 +22,43 @@ namespace UserInterface
     public partial class MainWindow : Window
     {
 
-         ContactBook contactBook;
+        ContactBook contactBook;
         public MainWindow()
         {
             InitializeComponent();
-            FirstName.Width=100;
-            LastName.Width=100;
-            PhoneNumber.Width=100;
-            
-          //   Contact contact = new Contact("John", "Doe", "1234567890"); 
+            FirstName.Width = 100;
+            LastName.Width = 100;
+            PhoneNumber.Width = 100;
 
-          contactBook =new ContactBook();
-          AddContactButton.Click +=AddContact;
+
+
+
+
+
+            //   Contact contact = new Contact("John", "Doe", "1234567890"); 
+
+            contactBook = new ContactBook();
+            AddContactButton.Click += AddContact;
+            MyList.ItemsSource = contactBook.ContactList;
+
+           CollectionView view = (CollectionView)CollectionViewSource.GetDefaultView(MyList.ItemsSource);
+
+            //    view.SortDescriptions.Add(new SortDescription("FirstName", ListSortDirection.Ascending));
+            //   view.SortDescriptions.Add(new SortDescription("LastName", ListSortDirection.Ascending));
+            //  view.SortDescriptions.Add(new SortDescription("PhoneNumber", ListSortDirection.Ascending));
         }
-        public void AddContact(object sender, RoutedEventArgs e)
-        {
-            if (FirstName.Text != "" && LastName.Text != "" && PhoneNumber.Text != "")
-            {
-                Contact c = new Contact(FirstName.Text, LastName.Text, PhoneNumber.Text);
-                this.contactBook.AddContact(c);
-                
-                MyList.Items.Add(c);
-            }
-        }
-        
+
+       public void AddContact(object sender, RoutedEventArgs e)
+{
+  if (FirstName.Text != "" && LastName.Text != "" && PhoneNumber.Text != "")
+  {
+      Person c = new Person(FirstName.Text, LastName.Text, PhoneNumber.Text);
+      GenericContact<Person> personContact = new GenericContact<Person> { Contact = c };
+      this.contactBook.AddContact(personContact.Contact);
+      contactBook.ContactList.Add(personContact); // Add the new item to the ItemsSource collection
+  }
+}
+
+
     }
 }
