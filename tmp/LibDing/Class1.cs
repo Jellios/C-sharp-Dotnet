@@ -6,6 +6,9 @@ public class Class1
 }
 public class Quote
 {
+    private int id;
+
+
     private string author;
     private string content;
 
@@ -13,6 +16,7 @@ public class Quote
 
     public string Author {get; set;}
 
+    public int Id {get; set;}
     public string Content {get; set;}
 
     public DateTime QuoteDate {get; set;}
@@ -22,12 +26,14 @@ public class Quote
         this.quoteDate = new DateTime();
         this.author = "";
         this.content = "";
+        this.id = 0;
     }
-    public Quote(string _author, string _content, DateTime _quoteDate)
+    public Quote(string _author, string _content, DateTime _quoteDate, int _id)
     {
         this.author = _author;
         this.content = _content;
         this.quoteDate = _quoteDate;
+        this.id = _id;
     }
 }
 public class QuoteBook

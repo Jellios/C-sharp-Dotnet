@@ -1,0 +1,34 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+                 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                 x:Class="mauiInterface.QuotesPage">
+    
+    <StackLayout>
+        <ListView x:Name="QuotesListView">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*" />
+                                <ColumnDefinition Width="Auto" />
+                                <ColumnDefinition Width="Auto" />
+                            </Grid.ColumnDefinitions>
+                            <StackLayout Grid.Column="0" Grid.RowSpan="2">
+                                <Label Text="{Binding Author}" FontAttributes="Bold" />
+                                <Label Text="{Binding Content}" />
+                                <Label Text="{Binding QuoteDate, StringFormat='{0:dd/MM/yyyy}'}" />
+                            </StackLayout>
+                            <Button Grid.Column="1" Text="Edit" Clicked="EditButton_Clicked" CommandParameter="{Binding .}" />
+                            <Button Grid.Column="2" Text="Delete" Clicked="DeleteButton_Clicked" CommandParameter="{Binding .}" />
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Label x:Name="tmpLabel" Text="dd"/>
+    </StackLayout>
+</ContentPage>

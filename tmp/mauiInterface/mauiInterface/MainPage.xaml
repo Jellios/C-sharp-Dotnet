@@ -2,18 +2,22 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="mauiInterface.MainPage">
 
-    <StackLayout Margin="20">
+    <StackLayout Margin="20" >
         <Label Text="Author:" />
-        <Entry x:Name="AuthorInput" />
+        <Entry  Text="{Binding AuthorInput }" />
 
         <Label Text="Date:" />
-        <DatePicker x:Name="DateInput" />
+        <DatePicker  Date="{Binding DateInput }" />
 
         <Label Text="QuoteText:" />
-        <Editor x:Name="QuoteTextInput" />
+        <Editor Text="{Binding NameInput }" />
 
-        <Button Text="Submit" Clicked="SubmitButton_Click" />
+      
         <Label Text="DDD" x:Name="Testinglbl" />
+        <Button Text="Add Quote" Clicked="Button_Clicked"/>
+        <Button Text="View all Quotes" Clicked="Button_Clicked_1"/>
+        <Button Text="Add random Quotes" Clicked="Button_Clicked_2"/>
+        <Button Text="DELETE ALL QUOTES" Clicked="Button_Clicked_3"/>
     </StackLayout>
 
 </ContentPage>

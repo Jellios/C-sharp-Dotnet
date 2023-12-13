@@ -13,6 +13,10 @@ builder.Services.AddDbContext<QuoteContext>(options =>
     options.UseMySql(builder.Configuration.GetConnectionString("DefaultConnection"),
         new MySqlServerVersion(new Version(8, 2, 0))));
 
+System.Console.WriteLine("---------------\n\n\n");
+System.Console.WriteLine(builder.Configuration.GetConnectionString("DefaultConnection"));
+System.Console.WriteLine("\n\n\n---------------");
+
 builder.Services.AddScoped<QuoteRepository>(); // Add this line
 
 builder.Services.AddControllers();
